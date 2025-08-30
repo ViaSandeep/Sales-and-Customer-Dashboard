@@ -37,10 +37,10 @@ This project includes **two interactive dashboards built in Tableau** to analyze
 ## 📸 Screenshots  
 
 ### Sales Dashboard  
-![Sales Dashboard](Sales-Dashboard.jpg)  
+[Sales Dashboard](Sales-Dashboard.jpg)  
 
 ### Customer Dashboard  
-![Customer Dashboard](Customer-Dashboard.jpg)    
+[Customer Dashboard](Customer-Dashboard.jpg)    
 
 ---
 
